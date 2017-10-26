@@ -27,9 +27,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 AWS Proof of Concept(POC)
-1. Default time for SQS is 30 seconds and maximum time out is 12 hours
+1. BucketValidNames
 ![Alt text](https://github.com/swaroop22/Angular4HelloWorld/blob/master/bucketValidName.JPG)
+2. Grant Access
 ![Alt text](https://github.com/swaroop22/Angular4HelloWorld/blob/master/grantAccess.JPG)
+3. Default User Access
 ![Alt text](https://github.com/swaroop22/Angular4HelloWorld/blob/master/defaultUserAccess.JPG)
+4. SQL Timeout
 ![Alt text](https://github.com/swaroop22/Angular4HelloWorld/blob/master/SQLTimeout.JPG)
+5. Bucket Invalid Name
 ![Alt text](https://github.com/swaroop22/Angular4HelloWorld/blob/master/bucketInvalidName.JPG)
