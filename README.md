@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+AWS Proof of Concept(POC)
+1. Default time for SQS is 30 seconds and maximum time out is 12 hours
+[Alt text](https://ibb.co/mh7BAm)
+[Alt text](https://ibb.co/gbnYO6)
+[Alt text](https://ibb.co/dKJjVm)
+[Alt text](https://ibb.co/mBkni6)
+[Alt text](https://ibb.co/drW4Vm)
