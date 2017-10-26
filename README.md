@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 AWS Proof of Concept(POC)
 1. Default time for SQS is 30 seconds and maximum time out is 12 hours
-[Alt text](https://ibb.co/mh7BAm)
+![Alt text](https://ibb.co/mh7BAm)
 [Alt text](https://ibb.co/gbnYO6)
 [Alt text](https://ibb.co/dKJjVm)
 [Alt text](https://ibb.co/mBkni6)
