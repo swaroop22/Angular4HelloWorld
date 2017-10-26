@@ -28,8 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 AWS Proof of Concept(POC)
 1. Default time for SQS is 30 seconds and maximum time out is 12 hours
-![Alt text](https://ibb.co/mh7BAm)
-[Alt text](https://ibb.co/gbnYO6)
-[Alt text](https://ibb.co/dKJjVm)
-[Alt text](https://ibb.co/mBkni6)
-[Alt text](https://ibb.co/drW4Vm)
+![Alt text](https://github.com/swaroop22/Angular4HelloWorld/blob/master/bucketValidName.JPG)
+[Alt text](https://github.com/swaroop22/Angular4HelloWorld/blob/master/grantAccess.JPG)
+[Alt text](https://github.com/swaroop22/Angular4HelloWorld/blob/master/defaultUserAccess.JPG)
+[Alt text](https://github.com/swaroop22/Angular4HelloWorld/blob/master/SQLTimeout.JPG)
+[Alt text](https://github.com/swaroop22/Angular4HelloWorld/blob/master/bucketInvalidName.JPG)
